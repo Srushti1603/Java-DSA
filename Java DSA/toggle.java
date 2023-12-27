@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class toggle2 {
+public class toggle{
 
     static void TOGGLE(StringBuilder S)
     {
